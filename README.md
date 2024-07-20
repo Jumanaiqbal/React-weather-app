@@ -1,4 +1,5 @@
-** React Weather App**
+## React Weather App
+
 This is a React-based weather application that allows users to search for different countries or places and view the temperature, wind speed, and humidity of the selected location.
 
 ## Features
