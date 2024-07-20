@@ -1,5 +1,4 @@
-**# React Weather App**
-
+** React Weather App**
 This is a React-based weather application that allows users to search for different countries or places and view the temperature, wind speed, and humidity of the selected location.
 
 ## Features
@@ -43,3 +42,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 OpenWeatherMap API for providing weather data.
 Create React App for the project setup.
 ## Live Demo
+https://jumanaiqbal.github.io/React-weather-app/
